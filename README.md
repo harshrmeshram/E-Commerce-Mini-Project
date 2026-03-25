@@ -122,28 +122,5 @@ http://localhost:5173
 
 This project is licensed under the **MIT License**.
 
----
 
-## 👨‍💻 Author
-
-**Harsh Meshram**
-Frontend Developer | UI/UX | Digital Marketing
-
-📌 GitHub: [https://github.com/your-username](https://github.com/your-username)
-📌 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
-```
-
----
-
-### ✅ 100% Ready to Paste into GitHub  
-No formatting issues • Clean Markdown • Professional look
-
-If you want, I can also:
-- 🔥 Add **AI API usage section**
-- 📸 Add **screenshots & demo GIF**
-- 🧑‍💼 Make it **internship / resume optimized**
-- 🎨 Convert it into **portfolio-grade README**
-
-Just say the word 💪
 ```
