@@ -110,7 +110,7 @@ http://localhost:5173
 
 ## 🔮 Future Enhancements
 
-* 🤖 AI API integration (OpenAI / Gemini / etc.)
+* 🤖 AI API integration (gemini).
 * 🌓 Dark & Light mode
 * 💾 Chat history storage
 * ⌨️ Typing animation
